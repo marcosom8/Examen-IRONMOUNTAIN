@@ -1,0 +1,1 @@
+C:\wamp64\www\Cap\API_Contacts\API_Contacts\obj\Debug\API_Contacts.csprojResolveAssemblyReference.cache
